@@ -1,5 +1,7 @@
 # penguins-eggs-integrations
 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-Ecosystem-OOC/penguins-eggs-integrations)
+
 Integration framework extending [Penguins-Eggs](https://github.com/pieroproietti/penguins-eggs)
 with 31 git-based projects across 6 feature domains.
 
